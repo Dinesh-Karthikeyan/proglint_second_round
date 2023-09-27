@@ -1,0 +1,4 @@
+date,student_name,student_id,slot,room,subject,faculty,reason
+24-09-2023,Ravan,21bce8083,Slot B,143,CSE4002,Maria,cell-phone
+24_09_23,Puneeth Reddy,21bce7948,Slot A,345,CSE3002,Ravi,cell-phone
+24_09_23,Puneeth Reddy,21bce7949,Slot A,345,CSE3002,Ravi,cell-phone
